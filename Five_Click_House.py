@@ -1,5 +1,5 @@
 #Five_Click_House.py
-# Constructions workers hate him, learn how to ake a house in just five clicks!
+# Constructions workers hate him, learn how to make a house in just five clicks!
 
 from graphics import *
 
